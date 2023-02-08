@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2FPUi4/TzNxxPJ7BxN7AIufXVAahsSY97xF+zkSF5Fa63ooQsUzuoeAV+Z5Sf8aTpQioLkvUh0VveIm+eh7Cjg==",
+  "dgSpecHash": "UhcREDtwiu/3ndjuXMZUQ1x7b8QLOsaT3chwMRq4f7OkCyCFphtAuVTZgp/n+5aAixkdDxRqsZP/OwP5JDBxkA==",
   "success": true,
-  "projectFilePath": "C:\\code\\C# code\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\code\\C# code\\Notes\\.Net-MauiApp-Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harrison\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\Harrison\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
