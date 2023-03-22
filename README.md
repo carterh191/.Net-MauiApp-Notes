@@ -1,2 +1,2 @@
 # .Net-MauiApp-Notes
- https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?view=net-maui-7.0
+.NET Multi-platform App UI (.NET MAUI) app that only uses cross-platform code.
